@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL ](https://guaresingle-pricegrid.netlify.app/)
+- Solution URL: [Solution URL ](https://github.com/GUARE-01/singlepricegrid)
+- Live Site URL: [Live site URL](https://guaresingle-pricegrid.netlify.app/)
 
 ## My process
 
